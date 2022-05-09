@@ -1,4 +1,4 @@
-# Lines of Effort
+# Line of Effort
 
 ## LOE 1: Establishing a long-term, accessible repository for project artifacts
 
